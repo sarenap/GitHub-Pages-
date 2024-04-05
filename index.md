@@ -1,18 +1,17 @@
-# my name
-**info**
+# Sarena Pham
+
 
 1. I want to learn web development
 2. I want to learn robotics.
 3. I hike and watch tv for fun.
 
-- P
-- banana
-- cherry
 - Java provides automatic memory management through a process called garbage collection
 
+**favorite pokemon**
 ![favorite pokemon](https://assets.pokemon.com/assets/cms2/img/pokedex/detail/148.png)
 
-![favorite anime](https://p325k7wa.twic.pics/high/jujutsu-kaisen/jujutsu-kaisen-cursed-clash/00-page-setup/JJK-header-mobile2.jpg?twic=v1/resize=760/step=10/quality=80)
+**favorite anime**
+![favorite anime](https://www.google.com/search?q=jujutsu+kaisen+poster&sca_esv=196de8ea19e6cdb1&sca_upv=1&udm=2&biw=1280&bih=567&ei=TDAPZsm5NeXckPIPuPiywA8&oq=jujutsu+kaisen+po&gs_lp=Egxnd3Mtd2l6LXNlcnAiEWp1anV0c3Uga2Fpc2VuIHBvKgIIADIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARIwRNQuANYrQlwAXgAkAEAmAGPAaABmgKqAQMyLjG4AQHIAQD4AQGYAgSgAr8CwgIKEAAYgAQYigUYQ8ICCBAAGIAEGLEDmAMAiAYBkgcDMy4xoAeqEA&sclient=gws-wiz-serp#vhid=jzjedPOSMcKSHM&vssid=mosaic)
 
 *code from system verilog class*
 `module bmc000 (`
