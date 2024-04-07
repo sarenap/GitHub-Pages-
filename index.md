@@ -11,16 +11,16 @@
 ### Favorite programming language:
 - Java provides automatic memory management through a process called garbage collection
 
-**favorite pokemon**
-![favorite pokemon](https://assets.pokemon.com/assets/cms2/img/pokedex/detail/148.png)
-
 *Favorite quote*
 >Nah, I'd win.
 
-
+- [ ] include traffic light project code*
+1. Traffic Light Controller
+   -modelsim waveform (link to image later)
+      -quartus circuit diagram
 
 *quoting code from system verilog class*
-- [ ] include traffic light project code*
+
 `module bmc000 (`
    `input    [1:0] rx_pair,`
    `output   [1:0] path_0_bmc,`
@@ -31,9 +31,11 @@
 # External links
 [ linkedin](https://www.linkedin.com)
 - [ ] update the linkedin
+
 # Section links
-***jump to assignment screenshot1 as an image***
-![part 1 screenshot](Screenshots/cse110cmd.JPG)
+***jump to assignment screenshot1 as a relative link***
+[part 1 screenshot](Screenshots/cse110cmd.JPG)
+
 ***jump to assignment screenshot2 as a relative link***
 [part 2 screenshot](Screenshots/cse110cmd2.JPG)
 
