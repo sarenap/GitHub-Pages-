@@ -1,6 +1,6 @@
 # Sarena Pham
 
-###This site was made with Github pages:
+This site was made with Github pages:
 [GitHub Pages](https://pages.github.com/)
 
 ## About me:
@@ -11,13 +11,8 @@
 ### Favorite programming language:
 - Java provides automatic memory management through a process called garbage collection
 
-**favorite pokemon**
-![favorite pokemon](https://assets.pokemon.com/assets/cms2/img/pokedex/detail/148.png)
-
-*Favorite quote*
+*Quoting text*
 >Nah, I'd win.
-
-
 
 *quoting code from system verilog class*
 - [ ] include traffic light project code*
