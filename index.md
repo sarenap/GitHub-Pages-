@@ -41,7 +41,7 @@
 - [ ] include robot project
 **jump to robot project images+code**
 **link to random.md file as a relative link**
-[visit random.md](GitHub-Pages-/random.md)
+[visit random.md](random.md)
 
 # Personal Projects
 **jump to project1,2,etc**
