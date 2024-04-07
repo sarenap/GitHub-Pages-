@@ -1,6 +1,6 @@
 # Sarena Pham
 
-This site was made with Github pages:
+###This site was made with Github pages:
 [GitHub Pages](https://pages.github.com/)
 
 ## About me:
@@ -11,11 +11,16 @@ This site was made with Github pages:
 ### Favorite programming language:
 - Java provides automatic memory management through a process called garbage collection
 
-*Quoting text*
+*Favorite quote*
 >Nah, I'd win.
 
-*quoting code from system verilog class*
 - [ ] include traffic light project code*
+1. Traffic Light Controller
+   -modelsim waveform (link to image later)
+      -quartus circuit diagram
+
+*quoting code from system verilog class*
+
 `module bmc000 (`
    `input    [1:0] rx_pair,`
    `output   [1:0] path_0_bmc,`
@@ -26,9 +31,11 @@ This site was made with Github pages:
 # External links
 [ linkedin](https://www.linkedin.com)
 - [ ] update the linkedin
+
 # Section links
-***jump to assignment screenshot1 as an image***
-![part 1 screenshot](Screenshots/cse110cmd.JPG)
+***jump to assignment screenshot1 as a relative link***
+[part 1 screenshot](Screenshots/cse110cmd.JPG)
+
 ***jump to assignment screenshot2 as a relative link***
 [part 2 screenshot](Screenshots/cse110cmd2.JPG)
 
