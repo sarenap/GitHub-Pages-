@@ -12,9 +12,10 @@ This site was made with Github pages:
 - Java provides automatic memory management through a process called garbage collection
 
 # External links
-[ linkedin](https://www.linkedin.com)
+- [ linkedin](https://www.linkedin.com)
 - [ ] update  linkedin
-[ My HTML Website]( https://sarenap.github.io/Lab2_Starter/ )
+- [ My HTML Website]( https://sarenap.github.io/Lab2_Starter/ )
+- [x] update this website
 
 # Section links
 ***jump to assignment screenshot1 as a relative link***
@@ -31,13 +32,14 @@ This site was made with Github pages:
  [Whole project folder with code](trafficlightcontroller)
  [pdf explanation+diagrams](trafficlightcontroller/trafficlightcontroller.pdf)
 
+***Alarm Clock***
+[Project folder](alarmclock)
+[pdf explanation](alarmclock/alarmclock.pdf)
+
 ***Infrared light sensor***
 [IR light sensor circuit image: ](engineering/irsensor.JPG)
 
-**To Do**
-- [x] finish this lab
-- [ ] organize my github
-- [ ] work on the project
+
 ~~ stuff ~~
 
 *show an image as a relative link*
