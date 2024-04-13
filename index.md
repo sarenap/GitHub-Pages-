@@ -1,6 +1,6 @@
 # Sarena Pham
 
-###This site was made with Github pages:
+This site was made with Github pages:
 [GitHub Pages](https://pages.github.com/)
 
 ## About me:
